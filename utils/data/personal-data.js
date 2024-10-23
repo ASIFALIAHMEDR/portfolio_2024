@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Asif Ali Ahmed R",
-  profile: '/profile.jpg',
+  profile: '/profile-4.jpeg',
   designation: "Software Developer",
-  description: "I’m Asif Ali Ahmed, a Software Engineer specializing in Java and Spring Boot. A fast learner and problem-solver, I excel in backend development and app building. I’m passionate about collaborating with teams to deliver impactful solutions, streamline processes, and drive innovation through scalable applications.",
+  description: "I’m Asif Ali Ahmed, a Software Engineer specializing in Java and Spring Boot. I swiftly master new technologies and solve complex problems with precision. I collaborate effectively with teams to deliver impactful solutions, streamline workflows, and drive innovation through scalable backend applications and efficient app development. My expertise extends to optimizing systems for high performance and guiding team members to achieve their full potential. I’m committed to delivering excellence in every project I undertake.",
   email: 'asifaliahmedr@gmail.com',
   phone: '+91 8660552494',
   address: 'Bengaluru, Karnataka India',
